@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Captain-America",
+    "clicked": false,
+    "image":
+      "https://images.indianexpress.com/2018/04/avengers-captain-america.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Thor",
+    "clicked": false,
+    "image":
+      "https://images.indianexpress.com/2018/04/avengers-thor.jpg"
+  },
+  {
+    "id": 3,
+    "name": "DoctorStrange",
+    "clicked": false,
+    "image":
+      "https://images.indianexpress.com/2018/04/avengers-doctorstrange.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Starlord",
+    "clicked": false,
+    "image":
+      "https://images.indianexpress.com/2018/04/avengers-starlord.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Blackpanther",
+    "clicked": false,
+    "image":
+      "https://images.indianexpress.com/2018/04/avengers-blackpanther.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Hulk",
+    "clicked": false,
+    "image":
+      "https://images.indianexpress.com/2018/04/avengers-hulk.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Spiderman",
+    "clicked": false,
+    "image":
+      "https://images.indianexpress.com/2018/04/avengers-spiderman.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Blackwidow",
+    "clicked": false,
+    "image":
+      "https://images.indianexpress.com/2018/04/avengers-blackwidow.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Scarletwitch",
+    "clicked": false,
+    "image":
+      "https://images.indianexpress.com/2018/04/avengers-scarletwitch.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Vision",
+    "clicked": false,
+    "image":
+      "https://images.indianexpress.com/2018/04/avengers-vision.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Shuri",
+    "clicked": false,
+    "image":
+      "https://images.indianexpress.com/2018/04/avengers-shuri.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Bucky",
+    "clicked": false,
+    "image":
+      "https://images.indianexpress.com/2018/04/avengers-bucky.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Okoye",
+    "clicked": false,
+    "image":
+      "https://images.indianexpress.com/2018/04/avengers-okoye.jpg"
+  },
+  {
+    "id": 14,
+    "name": "IronMan",
+    "clicked": false,
+    "image":
+      "https://images.indianexpress.com/2018/04/avengers-iron-man.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Drax",
+    "clicked": false,
+    "image":
+      "https://images.indianexpress.com/2018/04/avengers-drax.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Gamora",
+    "clicked": false,
+    "image":
+      "https://images.indianexpress.com/2018/04/avengers-gamora.jpg"
+  }
+]
